@@ -6,7 +6,7 @@ This is a simple implementation of the game Rock Paper Scissors. The game is pla
 
 - Users can choose between rock, paper and scissors.
 - Green Box will Represent the Winner..
-- Red Boxx will Represent the Loser.
+- Red Box will Represent the Loser.
 
 ## Installation
 
